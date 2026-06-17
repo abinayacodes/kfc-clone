@@ -1,12 +1,12 @@
-#KFC CLone
+# KFC CLone
 
 A KFC landing page clone built using HTML and CSS.
 
-##Technologies used
+## Technologies used
 -HTML
 -CSS
 
-##Features
+## Features
 -Navigation Bar
 -Food Sections
 -Image Layouts
