@@ -1,4 +1,4 @@
-# KFC CLone
+# KFC Clone
 
 A KFC landing page clone built using HTML and CSS.
 
