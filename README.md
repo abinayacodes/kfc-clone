@@ -3,11 +3,11 @@
 A KFC landing page clone built using HTML and CSS.
 
 ## Technologies used
--HTML
--CSS
+- HTML
+- CSS
 
 ## Features
--Navigation Bar
--Food Sections
--Image Layouts
--Responsive Design
+- Navigation Bar
+- Food Sections
+- Image Layouts
+- Responsive Design
